@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import { fa-facebook } from '@awesome.me/kit-KIT_CODE/icons/classic/solid'
+import { fafacebook } from '@awesome.me/kit-KIT_CODE/icons/classic/solid'
 
 
 const footer = () => {
